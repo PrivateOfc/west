@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: privateofcwest.pages.dev
+Token: 63c6c925c475857c95112002e0c3c7320d72e20b0157b83731d345098cd6d2bd
