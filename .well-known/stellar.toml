@@ -35,7 +35,7 @@ code="GrSSLG"
 issuer="GASSQNUYTK3OQX23EMYD6DTU2YCKBSMRPZV4VC6TQHBM6TXIQPZDAT2D"
 is_asset_anchored="false"
 display_decimals=4
-attestation_of_reserve=""
+attestation_of_reserve="https://stellar.expert/explorer/public/asset/GrSSLG-GASSQNUYTK3OQX23EMYD6DTU2YCKBSMRPZV4VC6TQHBM6TXIQPZDAT2D-2?filter=markets"
 name="Gr. SSLG Meteors"
 desc="Fungible base/counter cryptocurrency"
 conditions="Active burn policy. Issuer may mint additional tokens."
