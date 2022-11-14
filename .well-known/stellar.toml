@@ -33,6 +33,7 @@ verification_photo_hash=""
 [[CURRENCIES]]
 code="GrSSLG"
 issuer="GASSQNUYTK3OQX23EMYD6DTU2YCKBSMRPZV4VC6TQHBM6TXIQPZDAT2D"
+is_asset_anchored="false"
 display_decimals=4
 attestation_of_reserve=""
 name="Gr. SSLG Meteors"
