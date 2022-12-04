@@ -3,7 +3,7 @@ FEDERATION_SERVER="https://api.stellar.org/federation"
 TRANSFER_SERVER="https://api.stellar.org/auth"
 SIGNING_KEY="GD57PYZVUO4P4IDGX7OX4RTLOKI2R5MHJUEZ4SAXAS3TY37QMMJX4BN7"
 HORIZON_URL="https://horizon.stellar.org"
-ACCOUNTS=["GD57PYZVUO4P4IDGX7OX4RTLOKI2R5MHJUEZ4SAXAS3TY37QMMJX4BN7","GASSQNUYTK3OQX23EMYD6DTU2YCKBSMRPZV4VC6TQHBM6TXIQPZDAT2D"]
+ACCOUNTS=["GD57PYZVUO4P4IDGX7OX4RTLOKI2R5MHJUEZ4SAXAS3TY37QMMJX4BN7","GASSQNUYTK3OQX23EMYD6DTU2YCKBSMRPZV4VC6TQHBM6TXIQPZDAT2D, "GAE65F2YCYMM62F2AGOD4Q76JYMQOSDCRTBB3IQMJ3IE3MUTJQMYXKN6"]
 
 VERSION="2.0.0"
 [DOCUMENTATION]
@@ -41,3 +41,14 @@ desc="Fungible base/counter cryptocurrency"
 conditions="Active burn policy. Issuer may mint additional tokens."
 image=""
 fixed_number="1000000000"
+[[CURRENCIES]]
+code="RENFT"
+issuer="GAE65F2YCYMM62F2AGOD4Q76JYMQOSDCRTBB3IQMJ3IE3MUTJQMYXKN6"
+is_asset_anchored="false"
+display_decimals=4
+attestation_of_reserve="https://stellar.expert/explorer/public/account/GAE65F2YCYMM62F2AGOD4Q76JYMQOSDCRTBB3IQMJ3IE3MUTJQMYXKN6"
+name="Real Estate NFT"
+desc="Convertible Fungible base/counter cryptocurrency"
+conditions="Active burn policy. Issuer may mint additional tokens."
+image=""
+fixed_number="5000"
