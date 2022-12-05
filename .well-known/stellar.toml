@@ -56,3 +56,18 @@ is_unlimited=true
 is_asset_anchored=true
 anchor_asset_type="nft"
 anchor_asset="Real Estate NFT Rights"
+
+[[CURRENCIES]]
+isuer="GCVN2UJLKNCTFZSTREODJZAXOUCFZHGYMQOA6MX5AL45NUPSFGI7PWQM"
+code="RENFT"
+name="Real Estate NFT"
+desc="Real Estate NFT Rights. Non-fungible base/counter Real Estate NFT Rights cryptocurrency"
+image=""
+attestation_of_reserve="https://stellar.expert/explorer/public/asset/RENFT-GCVN2UJLKNCTFZSTREODJZAXOUCFZHGYMQOA6MX5AL45NUPSFGI7PWQM-2"
+fixed_number=false
+max_number=5000
+display_decimals=4
+is_unlimited=true
+is_asset_anchored=true
+anchor_asset_type="nft"
+anchor_asset="Real Estate NFT Rights"
