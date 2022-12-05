@@ -40,7 +40,7 @@ name="Gr. SSLG Meteors"
 desc="Fungible base/counter cryptocurrency"
 conditions="Active burn policy. Issuer may mint additional tokens."
 image=""
-fixed_number="1000000000"
+fixed_number=false
 
 [[CURRENCIES]]
 code="RENFT"
@@ -52,4 +52,4 @@ name="Real Estate NFT"
 desc="Non-Fungible base/counter cryptocurrency"
 conditions="Real Estate NFT Rights allow participation in Real Estate NFT."
 image=""
-fixed_number="5000"
+fixed_number=true
