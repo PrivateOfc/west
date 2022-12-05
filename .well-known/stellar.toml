@@ -55,3 +55,4 @@ display_decimals=7
 is_unlimited=true
 is_asset_anchored=true
 anchor_asset_type="nft"
+anchor_asset="Real Estate NFT Rights"
