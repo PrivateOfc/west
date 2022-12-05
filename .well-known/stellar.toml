@@ -59,5 +59,6 @@ code="RENFT"
 name="Real Estate NFT"
 desc="Real Estate NFT Rights"
 image="https://litemint.infura-ipfs.io/ipfs/QmZsA5pcDAmP46pJeCYZ5TvmBgrzKgjErubZpnaaNzRnaw"
-fixed_number=5000
+fixed_number=1
+max_number=5000
 display_decimals=7
