@@ -54,4 +54,4 @@ max_number=5000
 display_decimals=7
 is_unlimited=true
 is_asset_anchored=true
-anchor_asset_type="Real Estate"
+anchor_asset_type="realestate"
