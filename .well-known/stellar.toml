@@ -53,3 +53,5 @@ fixed_number=1
 max_number=5000
 display_decimals=7
 is_unlimited=true
+is_asset_anchored=true
+anchor_asset_type="Rights"
