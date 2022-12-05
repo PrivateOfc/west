@@ -33,7 +33,7 @@ verification_photo_hash=""
 [[CURRENCIES]]
 code="GrSSLG"
 issuer="GASSQNUYTK3OQX23EMYD6DTU2YCKBSMRPZV4VC6TQHBM6TXIQPZDAT2D"
-is_asset_anchored="false"
+is_asset_anchored=false
 display_decimals=4
 attestation_of_reserve="https://stellar.expert/explorer/public/asset/GrSSLG-GASSQNUYTK3OQX23EMYD6DTU2YCKBSMRPZV4VC6TQHBM6TXIQPZDAT2D-2?filter=markets"
 name="Gr. SSLG Meteors"
@@ -45,7 +45,7 @@ fixed_number="1000000000"
 [[CURRENCIES]]
 code="RENFT"
 issuer="GAE65F2YCYMM62F2AGOD4Q76JYMQOSDCRTBB3IQMJ3IE3MUTJQMYXKN6"
-is_asset_anchored="true"
+is_asset_anchored=true
 display_decimals=4
 attestation_of_reserve="https://stellar.expert/explorer/public/account/GAE65F2YCYMM62F2AGOD4Q76JYMQOSDCRTBB3IQMJ3IE3MUTJQMYXKN6"
 name="Real Estate NFT"
