@@ -53,3 +53,11 @@ desc="Non-Fungible base/counter cryptocurrency"
 conditions="Real Estate NFT Rights allow participation in Real Estate NFT."
 image=""
 fixed_number=true
+[[CURRENCIES]]
+issuer="GAE65F2YCYMM62F2AGOD4Q76JYMQOSDCRTBB3IQMJ3IE3MUTJQMYXKN6"
+code="RENFT"
+name="Real Estate NFT"
+desc="Real Estate NFT Rights"
+image="https://litemint.infura-ipfs.io/ipfs/QmZsA5pcDAmP46pJeCYZ5TvmBgrzKgjErubZpnaaNzRnaw"
+fixed_number=5000
+display_decimals=7
