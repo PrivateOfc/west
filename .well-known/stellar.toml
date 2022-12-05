@@ -62,3 +62,4 @@ image="https://litemint.infura-ipfs.io/ipfs/QmZsA5pcDAmP46pJeCYZ5TvmBgrzKgjErubZ
 fixed_number=1
 max_number=5000
 display_decimals=7
+is_unlimited=true
