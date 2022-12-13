@@ -33,14 +33,16 @@ verification_photo_hash=""
 [[CURRENCIES]]
 code="GrSSLG"
 issuer="GASSQNUYTK3OQX23EMYD6DTU2YCKBSMRPZV4VC6TQHBM6TXIQPZDAT2D"
-is_asset_anchored=false
-display_decimals=4
-attestation_of_reserve="https://stellar.expert/explorer/public/asset/GrSSLG-GASSQNUYTK3OQX23EMYD6DTU2YCKBSMRPZV4VC6TQHBM6TXIQPZDAT2D-2?filter=markets"
 name="Gr. SSLG Meteors"
 desc="Fungible base/counter cryptocurrency"
 conditions="Active burn policy. Issuer may mint additional tokens."
 image=""
+attestation_of_reserve="https://stellar.expert/explorer/public/asset/GrSSLG-GASSQNUYTK3OQX23EMYD6DTU2YCKBSMRPZV4VC6TQHBM6TXIQPZDAT2D-2?filter=markets"
 fixed_number=false
+max_number=1000000000
+display_decimals=4
+is_unlimited=true
+is_asset_anchored=false
 
 [[CURRENCIES]]
 code="RENFT"
@@ -61,7 +63,7 @@ anchor_asset="Real Estate NFT Rights"
 code="RENFT"
 isuer="GCVN2UJLKNCTFZSTREODJZAXOUCFZHGYMQOA6MX5AL45NUPSFGI7PWQM"
 name="Real Estate NFT"
-desc="Real Estate NFT Rights. Non-fungible base/counter Real Estate NFT Rights cryptocurrency. Supply equal to 0.0005. Every Real Estate NFT is issued a unique Identifier."
+desc="Real Estate NFT Rights. desc="Non-Fungible cryptocurrency. Real Estate NFT Rights. Supply equal to 5000. Every Real Estate NFT is issued a unique Identifier."
 image="https://github.com/PrivateOfc/west/blob/main/images/Real%20Estate%20NFT%20Rights.png"
 attestation_of_reserve="https://stellar.expert/explorer/public/asset/RENFT-GCVN2UJLKNCTFZSTREODJZAXOUCFZHGYMQOA6MX5AL45NUPSFGI7PWQM-2"
 fixed_number=true
