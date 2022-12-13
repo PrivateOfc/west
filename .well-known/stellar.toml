@@ -63,7 +63,7 @@ anchor_asset="Real Estate NFT Rights"
 code="RENFT"
 isuer="GCVN2UJLKNCTFZSTREODJZAXOUCFZHGYMQOA6MX5AL45NUPSFGI7PWQM"
 name="Real Estate NFT"
-desc="Real Estate NFT Rights. desc="Non-Fungible cryptocurrency. Real Estate NFT Rights. Supply equal to 5000. Every Real Estate NFT is issued a unique Identifier."
+desc="Real Estate NFT Rights, every real estate NFT is issued a unique Identifier"
 image="https://github.com/PrivateOfc/west/blob/main/images/Real%20Estate%20NFT%20Rights.png"
 attestation_of_reserve="https://stellar.expert/explorer/public/asset/RENFT-GCVN2UJLKNCTFZSTREODJZAXOUCFZHGYMQOA6MX5AL45NUPSFGI7PWQM-2"
 fixed_number=true
