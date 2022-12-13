@@ -43,8 +43,8 @@ image=""
 fixed_number=false
 
 [[CURRENCIES]]
-issuer="GCH543CFFBLHVZDC7GBQFQ2LCEY5EGDGHUOTKPASXEMB6ITE23VY64EH"
 code="RENFT"
+issuer="GCH543CFFBLHVZDC7GBQFQ2LCEY5EGDGHUOTKPASXEMB6ITE23VY64EH"
 name="Real Estate NFT"
 desc="Real Estate NFT"
 image="https://litemint.infura-ipfs.io/ipfs/QmZsA5pcDAmP46pJeCYZ5TvmBgrzKgjErubZpnaaNzRnaw"
@@ -58,8 +58,8 @@ anchor_asset_type="nft"
 anchor_asset="Real Estate NFT Rights"
 
 [[CURRENCIES]]
-isuer="GCVN2UJLKNCTFZSTREODJZAXOUCFZHGYMQOA6MX5AL45NUPSFGI7PWQM"
 code="RENFT"
+isuer="GCVN2UJLKNCTFZSTREODJZAXOUCFZHGYMQOA6MX5AL45NUPSFGI7PWQM"
 name="Real Estate NFT"
 desc="Real Estate NFT Rights. Non-fungible base/counter Real Estate NFT Rights cryptocurrency. Supply equal to 0.0005. Every Real Estate NFT is issued a unique Identifier."
 image="https://github.com/PrivateOfc/west/blob/main/images/Real%20Estate%20NFT%20Rights.png"
