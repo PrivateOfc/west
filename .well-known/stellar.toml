@@ -50,7 +50,7 @@ code="CARENFT"
 issuer="GBO7P22XN4ZOLQ2MTNBB5DHULJDKO4KOOPYKK6WC2CWVCHRPWAHF3MQQ"
 is_asset_anchored=true
 display_decimals=4
-attestation_of_reserve=""
+attestation_of_reserve="https://stellar.expert/explorer/public/search?term=GBO7P22XN4ZOLQ2MTNBB5DHULJDKO4KOOPYKK6WC2CWVCHRPWAHF3MQQ"
 name="California Real Estate NFT"
 desc="Non-Fungible base/counter cryptocurrency"
 conditions="CA Real Estate NFT"
