@@ -65,6 +65,6 @@ display_decimals=4
 attestation_of_reserve=""
 name="California Real Estate NFT Rights"
 desc="Non-Fungible base/counter cryptocurrency"
-conditions="NFT"
+conditions="NFT. Rights to acquire CARENFT"
 image=""
 fixed_number=5000
