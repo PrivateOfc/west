@@ -77,6 +77,7 @@ display_decimals=4
 attestation_of_reserve=""
 name="California Real Estate NFT Rights"
 desc="Non-Fungible base/counter cryptocurrency"
-conditions="NFT. Rights to acquire CARENFT"
+conditions="NFT. Rights to acquire CARENFT. NFT rights may be utilized for right of first offer or right of first refusal to acquire real property."
+"
 image=""
 fixed_number=5000
